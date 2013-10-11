@@ -1,0 +1,22 @@
+{
+  "name": "flexydoc",
+  "version": "0.0.0",
+  "description": "Flexible Documentation generator. Possibly using grunt and a customizable language grammar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TopCS/flexydoc.git"
+  },
+  "author": "TopCS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TopCS/flexydoc/issues"
+  },
+  "homepage": "https://github.com/TopCS/flexydoc",
+  "dependencies": {
+    "pegjs": "~0.7.0"
+  }
+}
